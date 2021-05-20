@@ -30,7 +30,7 @@ declare reset
 
 SCRIPTPATH="$( dirname "$( cd "$(dirname "$0")" >/dev/null 2>&1 || exit ; pwd -P )" )"
 
-# shellcheck disable=SC1090
+# shellcheck disable=SC1090,SC1091
 source "${SCRIPTPATH}"/src/bash-colour-include.sh
 
 # -------------------------------------------------------------------------------- #
