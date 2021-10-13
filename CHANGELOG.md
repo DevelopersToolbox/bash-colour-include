@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/DevelopersToolbox/bash-colour-include/compare/v0.1.0...HEAD)
 
-- Update travis slack integration due to new slack organisation [`[head]`](https://github.com/DevelopersToolbox/bash-colour-include/commit/)
+- rebrand [`[head]`](https://github.com/DevelopersToolbox/bash-colour-include/commit/)
+
+- Update travis slack integration due to new slack organisation [`[76164ab]`](https://github.com/DevelopersToolbox/bash-colour-include/commit/76164ab430e97c1aaa7555baad9595e2467748dd)
 
 - Fix shellcheck issue since 0.7.2 release [`[349df48]`](https://github.com/DevelopersToolbox/bash-colour-include/commit/349df4844bf9dbb83b2df34c6158493afffa70a8)
 
